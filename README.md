@@ -51,8 +51,8 @@ I’m focused on mastering the **MERN Stack (MongoDB, Express, React, Node)** �
 
 ### 💼 Featured Projects
 
-| Project | Description | Tech | 
-| --- | --- | --- | --- |
+| Project | Description | Tech |
+| --- | --- | --- |
 | 🎨 **Dribbble Clone** | Recreated Dribbble homepage — my first major UI build | HTML, CSS |
 | ☁️ **Weather App** | Real‑time weather with geolocation, icons, timezone | JavaScript |
 | 💰 **Expense Tracker** | Track expenses, balance, and persistence with localStorage | JavaScript |
