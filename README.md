@@ -1,8 +1,19 @@
-<!-- 🔥 Dark Futuristic GitHub Profile README -->
+<!-- 🔥 Dark Futuristic GitHub Profile README with Custom Fonts -->
 
-<h1 align="center" style="color:#fff;">👋 Hey, I’m <span style="color:#f54ea2;">Hanzla Fullstack</span></h1>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Mona+Sans:wght@700&display=swap" rel="stylesheet">
 
-<p align="center" style="color:#bbb;font-size:16px;">
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Mona Sans', sans-serif;
+  }
+  p, li, td, th, em, strong {
+    font-family: 'Inter', sans-serif;
+  }
+</style>
+
+<h1 align="center" style="color:#fff; font-family:'Mona Sans', sans-serif;">👋 Hey, I’m <span style="color:#f54ea2;">Hanzla Fullstack</span></h1>
+
+<p align="center" style="color:#bbb;font-size:16px;font-family:'Inter',sans-serif;">
   <strong>💻 Full Stack Web Developer in Progress • Lifelong Learner • Creative Problem Solver</strong><br>
   <em>“Coding is not just about syntax — it’s about vision, patience, and persistence.”</em>
 </p>
@@ -41,7 +52,7 @@ My focus is on mastering the **MERN Stack (MongoDB, Express, React, Node)** and 
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
 </p>
 
-<p align="center" style="color:#777;">
+<p align="center" style="color:#777; font-family:'Inter',sans-serif;">
   🧠 Always exploring new technologies • 💡 Learning from every project • ⚡ Striving for clean code & creative design
 </p>
 
@@ -100,6 +111,6 @@ Failure isn’t something I fear — it’s something I learn from. I believe in
 
 ---
 
-<p align="center" style="color:#777;">
+<p align="center" style="color:#777;font-family:'Inter',sans-serif;">
   <i>⭐ If you like my work, consider following me — every follow inspires me to build more and share more!</i>
 </p>
