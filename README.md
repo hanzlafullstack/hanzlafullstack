@@ -1,15 +1,6 @@
-<!-- 🔥 Dark Futuristic GitHub Profile README with Custom Fonts -->
+<!-- 🔥 Dark Futuristic GitHub Profile README  -->
 
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Mona+Sans:wght@700&display=swap" rel="stylesheet">
 
-<style>
-  h1, h2, h3, h4, h5, h6 {
-    font-family: 'Mona Sans', sans-serif;
-  }
-  p, li, td, th, em, strong {
-    font-family: 'Inter', sans-serif;
-  }
-</style>
 
 <h1 align="center" style="color:#fff; font-family:'Mona Sans', sans-serif;">👋 Hey, I’m <span style="color:#f54ea2;">Hanzla Fullstack</span></h1>
 
