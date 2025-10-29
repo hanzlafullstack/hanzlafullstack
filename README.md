@@ -51,12 +51,12 @@ I’m focused on mastering the **MERN Stack (MongoDB, Express, React, Node)** �
 
 ### 💼 Featured Projects
 
-| Project | Description | Tech | Live |
+| Project | Description | Tech | 
 | --- | --- | --- | --- |
-| 🎨 **Dribbble Clone** | Recreated Dribbble homepage — my first major UI build | HTML, CSS | [Demo](#) |
-| ☁️ **Weather App** | Real‑time weather with geolocation, icons, timezone | JavaScript | [Demo](#) |
-| 💰 **Expense Tracker** | Track expenses, balance, and persistence with localStorage | JavaScript | [Demo](#) |
-| 🧮 **Mini Projects** | To‑Do, Calculator, Password Generator — JS fundamentals | JavaScript | [Demo](#) |
+| 🎨 **Dribbble Clone** | Recreated Dribbble homepage — my first major UI build | HTML, CSS |
+| ☁️ **Weather App** | Real‑time weather with geolocation, icons, timezone | JavaScript |
+| 💰 **Expense Tracker** | Track expenses, balance, and persistence with localStorage | JavaScript |
+| 🧮 **Mini Projects** | To‑Do, Calculator, Password Generator — JS fundamentals | JavaScript |
 
 > 🔜 Next: Full‑stack **E‑commerce** with React, Node, and MongoDB.
 
