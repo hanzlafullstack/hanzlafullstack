@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center" style="color:#fff; font-family:'Mona Sans', sans-serif;">👋 Hey, I’m <span style="color:#f54ea2;">Hanzla Fullstack</span></h1>
+<h1 align="center" style="color:#fff; font-family:'Mona Sans', sans-serif;">👋 Hey, I’m <span style="color:#f54ea2;">Hanzla</span></h1>
 
 <p align="center" style="color:#bbb;font-size:16px;font-family:'Inter',sans-serif;">
   <strong>💻 Full Stack Web Developer in Progress • Lifelong Learner • Creative Problem Solver</strong><br>
