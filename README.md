@@ -64,13 +64,9 @@ I’m focused on mastering the **MERN Stack (MongoDB, Express, React, Node)** �
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanzlafullstack&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzlafullstack&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlafullstack&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=hanzlafullstack&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&v=2" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzlafullstack&theme=tokyonight&hide_border=true&border_radius=12&v=2" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlafullstack&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&v=2" height="150" />
 
 ---
 
