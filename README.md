@@ -64,11 +64,21 @@ I’m focused on mastering the **MERN Stack (MongoDB, Express, React, Node)** �
 
 ### 📊 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanzlafullstack&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&v=2" height="160" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzlafullstack&theme=tokyonight&hide_border=true&border_radius=12&v=2" height="160"  width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlafullstack&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&v=2" height="150"  width="100%" />
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzlafullstack&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=false&cache_seconds=1800&v=3" height="165" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzlafullstack&theme=tokyonight&hide_border=true&border_radius=12&v=3" height="165" style="display:inline-block;" />
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlafullstack&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10&cache_seconds=1800&v=3" height="160" />
+
+</div>
 
 ---
+
 
 ### 🎯 Goals Ahead
 
